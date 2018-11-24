@@ -11,5 +11,5 @@ We can use this corpus do a lot of things, such as train a simple seq2seq lyric 
 
 
 ### To-do
-
-- [ ] 写脚本，将数据中的文本数据进行转码
+- [x] 写脚本，将数据中的文本数据进行转码
+- [ ] 想些比较有意思的项目 
